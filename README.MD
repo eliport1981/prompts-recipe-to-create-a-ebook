@@ -6,7 +6,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/eliport1981/prompts-recipe-to-create-a-ebook/blob/main/output/ebook menopausa ia.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/eliport1981/prompts-recipe-to-create-a-ebook/blob/main/output/ebook menopausa ia.pdf" title="View PDF now"> 📕Clique aqui para ler o livro "Menopausa - Navegue pelos sintomas comm tranquilidade" gerado com auxílio de IA</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
